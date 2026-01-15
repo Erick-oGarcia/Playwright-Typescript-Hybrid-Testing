@@ -54,7 +54,7 @@ playwright/
 │   ├── api/      # Schema & Endpoint validation
 │   └── hybrid/   # Performance-optimized hybrid scenarios
 └── utils/        # UserFactory, Data Generators, and Helpers
-
+```
 
 
 
@@ -66,9 +66,9 @@ AJV (Schema validation)
 Faker.js (Test data generation)
 
 ## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+---
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Erick-oGarcia/Playwright-Typescript-Hybrid-Testing/blob/main/LICENSE) file for details.
+----
 ## ✍️ Author
 
 -   **Erick Garcia**
